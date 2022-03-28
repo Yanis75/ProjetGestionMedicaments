@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ClassMetier",
+    "\\GestionMedicament",
+    "\\GestionMedicament\\VueGael"
   ],
+  "SelectedNode": "\\GestionMedicament\\VueGael\\GstMedicamentGael.xaml.cs",
   "PreviewInSolutionExplorer": false
 }
